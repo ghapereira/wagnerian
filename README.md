@@ -5,6 +5,9 @@ This project aims to find the better path for traveling salesmen by using Google
 shortest Hamiltonian Paths is a classic problem, we'll use NetworkX instead of implementing our own solution.
 The objective here is to test the API most than anything.
 
+## API Docs
+You can find'em [here](https://googlemaps.github.io/google-maps-services-python/docs/2.4.4/#googlemaps.Client.distance_matrix)
+
 ## Requirements
 
 The requirements for the Virtualenv were saved as stated [here](http://docs.python-guide.org/en/latest/dev/virtualenvs/#other-notes).
