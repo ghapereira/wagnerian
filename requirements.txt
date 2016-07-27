@@ -1,0 +1,4 @@
+decorator==4.0.10
+googlemaps==2.4.4
+networkx==1.11
+requests==2.10.0
